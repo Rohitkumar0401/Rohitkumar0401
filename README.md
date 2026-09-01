@@ -67,10 +67,10 @@ Real-time sign language recognition system using TensorFlow, Keras, MobileNetV2,
 
 ## GITHUB ACTIVITY
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitKumar0401&show_icons=true&theme=dark&hide_border=true)
+[![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitKumar0401&show_icons=true&theme=dark&hide_border=true)](https://github.com/RohitKumar0401)
 
 ---
 
-## PROFILE
+## PROFILES
 
 [LinkedIn](https://www.linkedin.com/in/rohit-kumar-2ba311322/) | [LeetCode](https://leetcode.com/u/__RohitKumar/) | [GitHub](https://github.com/RohitKumar0401)
