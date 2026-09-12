@@ -1,28 +1,25 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rohit+Kumar+%F0%9F%91%8B;CSE+Student+%7C+AI%2FML+Enthusiast;Building+Real-World+Solutions;Currently+Building%3A+CodeLens+%F0%9F%94%8D" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Rohit+Kumar;Computer+Science+Engineer;AI+%2F+ML+%7C+DSA+%7C+Software+Development" alt="Typing SVG" />
 
 </div>
 
-### 🚀 About Me
+### About Me
 
-Computer Science Engineering student at **Graphic Era Hill University**, focused on **Data Structures & Algorithms**, **Artificial Intelligence**, and **Machine Learning**.
+I'm a Computer Science Engineering student at **Graphic Era Hill University**, specializing in **Artificial Intelligence and Machine Learning**. I build systems that combine solid engineering fundamentals with applied AI — from retrieval-augmented search pipelines to real-time computer vision.
 
-- 🔭 Currently building **CodeLens** — an AI-powered RAG system for understanding GitHub repositories
-- 🌱 Sharpening my DSA and problem-solving skills through consistent practice
-- 💡 Interested in the intersection of **AI/ML** and **practical software engineering**
-- 📫 Reach me at the links below
+My work spans backend architecture, machine learning model development, and algorithmic problem solving, with a consistent focus on building things that actually work end-to-end rather than isolated demos.
 
 ---
 
-### 🎓 Education
+### Education
 
 **Graphic Era Hill University, Dehradun**
 Bachelor of Technology — Computer Science Engineering (AI/ML)
 
 ---
 
-### 🛠️ Tech Stack
+### Tech Stack
 
 <div align="center">
 
@@ -41,24 +38,24 @@ Bachelor of Technology — Computer Science Engineering (AI/ML)
 
 ---
 
-### 🧠 Featured Projects
+### Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🔍 [CodeLens](https://github.com/RohitKumar0401/CodeLens)**
+**[CodeLens](https://github.com/RohitKumar0401/CodeLens)**
 
-AI-powered RAG system for exploring and querying GitHub repositories. Clones a repo, parses and chunks code by function/class, generates embeddings, and enables semantic search over the entire codebase using Pinecone.
+A retrieval-augmented generation system for codebase understanding. Ingests a GitHub repository, parses and chunks source code at the function and class level, generates vector embeddings, and enables semantic search across the entire codebase via Pinecone.
 
-`Python` `FastAPI` `Pinecone` `RAG` `Sentence-Transformers`
+`Python` `FastAPI` `Pinecone` `Sentence-Transformers` `RAG`
 
 </td>
 <td width="50%" valign="top">
 
-**🚑 Ambulance Route Optimization**
+**Ambulance Route Optimization**
 
-Route optimization system using Dijkstra's algorithm to compute efficient ambulance routes while factoring in real-world road conditions and disruptions.
+A route optimization engine built on Dijkstra's algorithm, designed to compute the most efficient ambulance routes while accounting for road-related disruptions in real time.
 
 `Python` `Graph Algorithms` `Dijkstra's Algorithm`
 
@@ -67,18 +64,18 @@ Route optimization system using Dijkstra's algorithm to compute efficient ambula
 <tr>
 <td width="50%" valign="top">
 
-**🤟 Sign Language Detection System**
+**Sign Language Detection System**
 
-Real-time sign language recognition system built with TensorFlow, Keras, and MobileNetV2, with OpenCV-based video capture and text-to-speech output.
+A real-time sign language recognition system combining TensorFlow, Keras, and MobileNetV2 for classification, OpenCV for video capture, and text-to-speech for spoken output.
 
 `TensorFlow` `Keras` `MobileNetV2` `OpenCV` `Text-to-Speech`
 
 </td>
 <td width="50%" valign="top">
 
-**More coming soon...**
+**More Projects**
 
-Currently deep in Week 2 of building CodeLens end-to-end — ingestion, chunking, embeddings, and semantic retrieval all working. LLM-powered Q&A layer in progress.
+Explore the full list of repositories below, or visit my [GitHub profile](https://github.com/RohitKumar0401?tab=repositories) for ongoing and past work.
 
 </td>
 </tr>
@@ -86,7 +83,7 @@ Currently deep in Week 2 of building CodeLens end-to-end — ingestion, chunking
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -101,17 +98,17 @@ Currently deep in Week 2 of building CodeLens end-to-end — ingestion, chunking
 
 ---
 
-### 🧩 LeetCode
+### LeetCode Stats
 
 <div align="center">
 
-[![LeetCode](https://leetcode.jacoblin.cool/RohitKumar0401?theme=dark&font=Fira%20Code)](https://leetcode.com/u/__RohitKumar/)
+<img src="https://leetcard.jacoblin.cool/__RohitKumar?theme=dark&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" width="500"/>
 
 </div>
 
 ---
 
-### 🌐 Connect With Me
+### Connect
 
 <div align="center">
 
