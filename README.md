@@ -1,76 +1,126 @@
-# ROHIT KUMAR
+<div align="center">
 
-### CSE Student | AI/ML | DSA | Building Real-World Solutions
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Rohit+Kumar+%F0%9F%91%8B;CSE+Student+%7C+AI%2FML+Enthusiast;Building+Real-World+Solutions;Currently+Building%3A+CodeLens+%F0%9F%94%8D" alt="Typing SVG" />
 
-Computer Science Engineering student at Graphic Era Hill University, focused on Data Structures & Algorithms, Artificial Intelligence, Machine Learning, and software development.
+</div>
 
-Currently learning, building projects, and improving problem-solving skills through consistent DSA practice.
+### 🚀 About Me
+
+Computer Science Engineering student at **Graphic Era Hill University**, focused on **Data Structures & Algorithms**, **Artificial Intelligence**, and **Machine Learning**.
+
+- 🔭 Currently building **CodeLens** — an AI-powered RAG system for understanding GitHub repositories
+- 🌱 Sharpening my DSA and problem-solving skills through consistent practice
+- 💡 Interested in the intersection of **AI/ML** and **practical software engineering**
+- 📫 Reach me at the links below
 
 ---
 
-## EDUCATION
+### 🎓 Education
 
-**Graphic Era Hill University, Dehradun**  
+**Graphic Era Hill University, Dehradun**
 Bachelor of Technology — Computer Science Engineering (AI/ML)
 
 ---
 
-## LEETCODE
+### 🛠️ Tech Stack
 
-[![LeetCode Stats](https://leetcard.jacoblin.cool/__RohitKumar?theme=dark)](https://leetcode.com/u/__RohitKumar/)
+<div align="center">
 
-## LEETCODE ACTIVITY
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![Pinecone](https://img.shields.io/badge/-Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-[![LeetCode Heatmap](https://leetcard.jacoblin.cool/__RohitKumar?ext=heatmap&theme=dark)](https://leetcode.com/u/__RohitKumar/)
-
----
-
-## PROJECTS
-
-### CodeLens
-
-AI-powered RAG-based project for understanding and querying GitHub repositories. Designed to help developers explore codebases, find relevant files, and get context-aware answers about their code.
-
-### Ambulance Route Optimization
-
-Route optimization system using Dijkstra's algorithm to find efficient ambulance routes while considering road-related issues.
-
-### Sign Language Detection System
-
-Real-time sign language recognition system using TensorFlow, Keras, MobileNetV2, OpenCV, and text-to-speech.
+</div>
 
 ---
 
-## SKILLS
+### 🧠 Featured Projects
 
-### LANGUAGES
+<table>
+<tr>
+<td width="50%" valign="top">
 
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+**🔍 [CodeLens](https://github.com/RohitKumar0401/CodeLens)**
 
-### AI / ML
+AI-powered RAG system for exploring and querying GitHub repositories. Clones a repo, parses and chunks code by function/class, generates embeddings, and enables semantic search over the entire codebase using Pinecone.
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-4B8BBE?style=for-the-badge)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+`Python` `FastAPI` `Pinecone` `RAG` `Sentence-Transformers`
 
-### TOOLS
+</td>
+<td width="50%" valign="top">
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+**🚑 Ambulance Route Optimization**
+
+Route optimization system using Dijkstra's algorithm to compute efficient ambulance routes while factoring in real-world road conditions and disruptions.
+
+`Python` `Graph Algorithms` `Dijkstra's Algorithm`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🤟 Sign Language Detection System**
+
+Real-time sign language recognition system built with TensorFlow, Keras, and MobileNetV2, with OpenCV-based video capture and text-to-speech output.
+
+`TensorFlow` `Keras` `MobileNetV2` `OpenCV` `Text-to-Speech`
+
+</td>
+<td width="50%" valign="top">
+
+**More coming soon...**
+
+Currently deep in Week 2 of building CodeLens end-to-end — ingestion, chunking, embeddings, and semantic retrieval all working. LLM-powered Q&A layer in progress.
+
+</td>
+</tr>
+</table>
 
 ---
 
-## GITHUB ACTIVITY
+### 📊 GitHub Stats
 
-[![Rohit's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohitKumar0401&show_icons=true&theme=dark&hide_border=true)](https://github.com/RohitKumar0401)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=RohitKumar0401&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RohitKumar0401&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+
+</div>
+
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=RohitKumar0401&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</div>
 
 ---
 
-## PROFILES
+### 🧩 LeetCode
 
-[LinkedIn](https://www.linkedin.com/in/rohit-kumar-2ba311322/) | [LeetCode](https://leetcode.com/u/__RohitKumar/) | [GitHub](https://github.com/RohitKumar0401)
+<div align="center">
+
+[![LeetCode](https://leetcode.jacoblin.cool/RohitKumar0401?theme=dark&font=Fira%20Code)](https://leetcode.com/u/__RohitKumar/)
+
+</div>
+
+---
+
+### 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohit-kumar-2ba311322/)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/__RohitKumar/)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/RohitKumar0401)
+
+</div>
+
+<div align="center">
+<sub>⭐️ Building things one commit at a time.</sub>
+</div>
