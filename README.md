@@ -1,7 +1,3 @@
-<div align="right">
-<img src="https://komarev.com/ghpvc/?username=RohitKumar0401&label=Profile+Views&color=2EC4B6&style=for-the-badge" alt="Profile views" height="35"/>
-</div>
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2EC4B6&center=true&vCenter=true&width=600&lines=Rohit+Kumar;Computer+Science+Engineer;AI+%2F+ML+%7C+DSA+%7C+Software+Development" alt="Typing SVG" />
