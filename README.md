@@ -4,7 +4,7 @@
 
 </div>
 
-### About Me
+### ABOUT ME
 
 I'm a Computer Science Engineering student at **Graphic Era Hill University**, specializing in **Artificial Intelligence and Machine Learning**. I build systems that combine solid engineering fundamentals with applied AI — from retrieval-augmented search pipelines to real-time computer vision.
 
